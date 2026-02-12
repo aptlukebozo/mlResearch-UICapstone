@@ -1,0 +1,4 @@
+Filename,Original,Adversarial,O_Conf,A_Conf,L2,Success
+car.jpg,sports car,cab,0.6135,0.5632,1.4276,True
+mouse.jpg,mouse,ocarina,0.9995,0.6222,3.1955,True
+tiger.jpg,tiger,tiger cat,0.7533,0.7286,1.3656,True
