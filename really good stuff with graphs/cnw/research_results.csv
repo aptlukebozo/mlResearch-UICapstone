@@ -1,0 +1,4 @@
+Index,Original_Label,Adv_Label,Orig_Conf,Adv_Conf,L2_Dist,Success
+1,Samoyed,white wolf,0.8846,0.4681,1.7120,True
+2,Samoyed,white wolf,0.8846,0.4681,1.7120,True
+3,Samoyed,white wolf,0.8846,0.4681,1.7120,True
