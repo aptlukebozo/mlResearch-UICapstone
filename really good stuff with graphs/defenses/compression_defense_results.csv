@@ -1,0 +1,4 @@
+Filename,Original,Adv_Label,O_Conf,Adv_Conf,Q25_Label,Q25_Conf,Q25_Restored,Q50_Label,Q50_Conf,Q50_Restored,Q75_Label,Q75_Conf,Q75_Restored
+car.jpg,sports car,cab,0.6135,1.0000,468,0.5448,False,468,0.9577,False,468,0.9992,False
+mouse.jpg,mouse,ocarina,0.9995,1.0000,684,0.7688,False,684,0.9993,False,684,1.0000,False
+tiger.jpg,tiger,Egyptian cat,0.7533,1.0000,292,0.4178,True,282,0.4548,False,287,0.4540,False

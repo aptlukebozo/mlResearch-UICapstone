@@ -1,0 +1,4 @@
+Filename,Original,Adversarial,O_Conf,Adv_Conf,RS_s0.1_Label,RS_s0.1_VoteFrac,RS_s0.1_Restored,RS_s0.25_Label,RS_s0.25_VoteFrac,RS_s0.25_Restored,RS_s0.5_Label,RS_s0.5_VoteFrac,RS_s0.5_Restored
+car.jpg,sports car,cab,0.6135,1.0000,468,1.0000,False,468,0.9900,False,562,0.7000,False
+mouse.jpg,mouse,ocarina,0.9995,1.0000,684,0.9500,False,6,0.4300,False,971,1.0000,False
+tiger.jpg,tiger,Egyptian cat,0.7533,1.0000,282,0.9400,False,291,0.4600,False,971,1.0000,False

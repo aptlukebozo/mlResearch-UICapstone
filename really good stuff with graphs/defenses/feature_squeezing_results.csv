@@ -1,0 +1,4 @@
+Filename,Original,Adversarial,O_Conf,Adv_Conf,Smooth_Label,Smooth_Conf,Smooth_Restored,Bit1_Label,Bit1_Conf,Bit1_Restored,Bit2_Label,Bit2_Conf,Bit2_Restored,Bit4_Label,Bit4_Conf,Bit4_Restored,Combo1_Label,Combo1_Conf,Combo1_Restored,Combo2_Label,Combo2_Conf,Combo2_Restored,Combo4_Label,Combo4_Conf,Combo4_Restored
+car.jpg,sports car,cab,0.6135,1.0000,468,0.9972,False,468,0.9244,False,468,0.7611,False,468,1.0000,False,468,0.4875,False,817,0.4455,True,468,0.9965,False
+mouse.jpg,mouse,ocarina,0.9995,1.0000,684,1.0000,False,971,0.1306,False,518,0.2012,False,684,1.0000,False,584,0.2371,False,518,0.8418,False,684,1.0000,False
+tiger.jpg,tiger,Egyptian cat,0.7533,1.0000,282,0.8222,False,556,0.6009,False,282,0.3489,False,285,1.0000,False,292,0.3798,True,287,0.3744,False,282,0.8034,False
